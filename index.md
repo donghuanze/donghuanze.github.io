@@ -6,30 +6,26 @@ My email is 2018141501127@stu.scu.edu.cn, which is the student mail created by S
 
 Here is some basic information to help someone know more about me
 
-```markdown
-Birth
+#### Birth
 
 - Jinan, Shandong Province, China
 - May 25th, 2000
 
-Education
+#### Education
 
 - Undergraduate student in Sichuan University since 2018
 
-Major
+#### Major
 
 - Major in software engineering, minor in biological science
-```
 
 
 ### Works and Achievements
 
 The following are my experiences since I entered Sichuan University
 
-```markdown
 - Participate in the construction of the experimental platform for specimens in
   the Life Sciences College, which is shown in [教学标本实验平台](http://202.115.44.83:9999/).
-```
 
 ### Support or Contact
 
