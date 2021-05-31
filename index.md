@@ -27,7 +27,8 @@ Major
 The following are my experiences since I entered Sichuan University
 
 ```markdown
-- Participate in the construction of the experimental platform for specimens in the Life Sciences College, which is shown in [教学标本实验平台](http://202.115.44.83:9999/).
+- Participate in the construction of the experimental platform for specimens in
+  the Life Sciences College, which is shown in [教学标本实验平台](http://202.115.44.83:9999/).
 ```
 
 ### Support or Contact
