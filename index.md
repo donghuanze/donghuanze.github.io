@@ -12,12 +12,13 @@ Birth
 - Jinan, Shandong Province, China
 - May 25th, 2000
 
-1. Numbered
-2. List
+Education
 
-**Bold** and _Italic_ and `Code` text
+- Undergraduate student in Sichuan University since 2018
 
-[Link](url) and ![Image](src)
+Major
+
+- Major in software engineering, minor in biological science
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
