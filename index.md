@@ -1,20 +1,16 @@
 ## Welcome to the Pages of Harry Dong (or Dong Huanze in Chinese)
 
-My email is 2018141501127@stu.scu.edu.cn, which is the student mail created by Sichuan University. If somebody wanna communicate with me, please feel free to email me anytime.
+My email is 2018141501127@stu.scu.edu.cn, which is the student mail created by Sichuan University. If someone wanna communicate with me, please feel free to email me anytime.
 
 ### Basic Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is some basic information to help someone know more about me
 
 ```markdown
-Syntax highlighted code block
+Birth
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- Jinan, Shandong Province, China
+- May 25th, 2000
 
 1. Numbered
 2. List
