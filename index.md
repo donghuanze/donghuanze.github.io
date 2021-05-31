@@ -21,11 +21,14 @@ Major
 - Major in software engineering, minor in biological science
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Works and Achievements
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/donghuanze/donghuanze.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The following are my experiences since I entered Sichuan University
+
+```markdown
+- Participate in the construction of the experimental platform for specimens in the Life Sciences College, which is shown in [教学标本实验平台](http://202.115.44.83:9999/).
+```
 
 ### Support or Contact
 
